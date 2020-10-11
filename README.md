@@ -7,3 +7,5 @@ a [Sails v1](https://sailsjs.com) application
 - make sure docker is installed
 - run ``docker-compose up --build``
 - server can be accessed via ``localhost/1337``
+
+The App can be found here: https://github.com/MaAsche/HelpMeApp
