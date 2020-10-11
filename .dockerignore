@@ -1,0 +1,8 @@
+node_modules
+.idea
+.tmp
+.editorconfig
+.eslintignore
+.gitignore
+README.md
+docker-compose.yml
